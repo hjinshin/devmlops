@@ -1,4 +1,4 @@
-# 신형진의 evmlops-msa 프로젝트
+# 신형진의 devmlops-msa 프로젝트
 
 > 신형진의 프로젝트입니다. 
 
