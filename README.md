@@ -1,4 +1,6 @@
-# devmlops-msa 프로젝트
+# 신형진의 evmlops-msa 프로젝트
+
+> 신형진의 프로젝트입니다. 
 
 이 프로젝트는 7/9(화) 진행될 DevOps, MLOps 실습 예제코드와 7/16(화) 진행될 Microservice, MSA 실습 예제코드가 포함되어 있습니다.
 
